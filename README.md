@@ -1,5 +1,5 @@
-# MuhammadRabe3-Rock-Paper-Scissors
-this was the first simple python project for me.
+# MuhammadRabe-Rock-Paper-Scissors-Game 
+this was the first (simple) python project for me.
 this contains three files :
 1.the planning of the program
 2.the program code 
